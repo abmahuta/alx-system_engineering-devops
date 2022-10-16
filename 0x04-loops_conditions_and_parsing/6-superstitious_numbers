@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# displays numbers from 1 to 20.
+
+DISPLAY=1
+while [ $DISPLAY -lt 21 ]
+do
+    case $DISPLAY in
+
+        4)
