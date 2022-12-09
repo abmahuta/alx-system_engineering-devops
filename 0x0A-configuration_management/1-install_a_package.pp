@@ -1,4 +1,5 @@
-#Puppet manifest that installs flask version 2.1.0
+#!/usr/bin/puppet
+# Puppet manifest that installs flask version 2.1.0
 
 package {'flask':
   ensure => '2.1.0',
