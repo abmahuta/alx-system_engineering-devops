@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# generates ssh key pair
-ssh-keygen
+#Connects to a server by using ssh key
+
+ssh 65687-web-01
